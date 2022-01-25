@@ -1,0 +1,29 @@
+.toures{
+    display: flex;
+    margin-top: 50px;
+    border-bottom: 4px solid #DCDCDC;
+    padding-bottom: 30px;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 25px;
+}
+.name{
+    font-size: 35px;
+    font-weight:600;
+   
+}
+.info{
+    margin-left: 100px;
+}
+p{
+    font-size: 20px;
+}
+button{
+    margin-left: 10px;
+    font-size: 25px;
+}
+.modala{
+    display: flex;
+}
